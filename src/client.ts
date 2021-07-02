@@ -20,7 +20,7 @@ export class Client {
 
 		let config = {
 			...options,
-			...headers
+			headers,
 		};
 
 		return fetch(url, config).then(r => {
