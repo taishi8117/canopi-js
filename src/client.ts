@@ -1,4 +1,5 @@
-import fetch from 'isomorphic-unfetch';
+import * as fetchImport from 'isomorphic-unfetch'
+const fetch = (fetchImport.default || fetchImport) as typeof fetchImport.default
 
 export class Client {
 	apiKey: string;

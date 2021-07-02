@@ -1,2 +1,7 @@
-import * as canopi from 'canopi-climate';
-console.log(canopi);
+const canopi = require('canopi-climate');
+const { Client } = canopi;
+const client = new Client({ apiKey: "" });
+
+
+
+client.getProjects();
