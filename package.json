@@ -1,6 +1,6 @@
 {
   "name": "canopi-climate",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "Canopi Climate API client library for JavaScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
