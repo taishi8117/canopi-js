@@ -1,5 +1,5 @@
 {
-  "name": "canopi",
+  "name": "canopi-climate",
   "version": "0.1.0",
   "description": "Canopi Climate API client library for JavaScript",
   "main": "dist/index.js",

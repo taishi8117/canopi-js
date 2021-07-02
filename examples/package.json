@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "canopi-climate": "^0.1.0"
+  }
 }
