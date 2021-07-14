@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "canopi-climate": "^0.1.6"
+    "canopi-climate": "file:../",
+    "moment": "^2.29.1"
   }
 }
