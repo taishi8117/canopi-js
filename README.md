@@ -2,8 +2,8 @@
 
 An API client for Canopi Climate API.
 
-[Documentation](https://www.canopi.cash/api-docs)
-[API Access Request](https://form.typeform.com/to/Z918Lf4B)
+* [Documentation](https://www.canopi.cash/api-docs)
+* [API Access Request](https://form.typeform.com/to/Z918Lf4B)
 
 ## Installation
 
